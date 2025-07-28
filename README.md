@@ -1,3 +1,4 @@
+>  Stream live link -"https://netflixclustering-axuw97urcfptbkdgfk4c5d.streamlit.app/"
 # 🎬 Netflix Content Clustering with Real-time Recommendations
 
 A comprehensive Netflix content clustering and recommendation system built with machine learning and Streamlit. This application provides real-time content recommendations based on user preferences using K-means clustering.
